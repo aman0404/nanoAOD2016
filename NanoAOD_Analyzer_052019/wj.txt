@@ -1,0 +1,1 @@
+./Analyzer root://cmsxrootd.fnal.gov//store/mc/RunIISummer16NanoAODv4/WJetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/NANOAODSIM/PUMoriond17_Nano14Dec2018_102X_mcRun2_asymptotic_v6-v1/30000/4F999F5C-16EA-1844-95F8-79381F98F685.root test.root -C PartDet_ePrompt -t 
